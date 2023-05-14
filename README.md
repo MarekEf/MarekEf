@@ -1,5 +1,5 @@
 Marek Ef it's an alias.
-Learning about Mainframe and z/OS
+Learning about Mainframe and z/OS,
 Someday a pro!
 
 <!---
